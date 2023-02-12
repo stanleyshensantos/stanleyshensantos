@@ -1,8 +1,8 @@
-### Oi esu sou Stanley Shen adoro tecnolgia !! 😎
+### Oi eu sou Stanley Shen adoro tecnolgia !! 😎
 
 
 
-- <div align="center">
+ <div align="center">
   <a href="https://github.com/stanleyshensantos">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=stanleyshensantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanleyshensantos&layout=compact&langs_count=7&theme=dracula"/>
